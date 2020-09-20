@@ -52,6 +52,9 @@ I'm a Frontrend Developer. I Spend most of time coding outstanding projects or r
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ItsRisingTide.ItsRisingTide)
 
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ItsRisingTide&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 <summary>
