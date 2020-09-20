@@ -1,6 +1,6 @@
 ## Hi I'm Arthur <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a Full Frontrend Developer and Content Creator on [Youtube](https://youtube.com/coderone). I Spend most of time coding outstanding projects or recording tutorials.
+I'm a Frontrend Developer. I Spend most of time coding outstanding projects or recording tutorials.
 
 
 
@@ -46,6 +46,12 @@ I'm a Full Frontrend Developer and Content Creator on [Youtube](https://youtube.
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
 - :email: ipenywis@gmail.com
+
+
+### Visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ItsRisingTide.ItsRisingTide)
+
 
 <details>
 <summary>
