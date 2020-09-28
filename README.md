@@ -1,7 +1,8 @@
 ## Hi I'm Arthur
 
-[![React Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&labelColor=E2E2E2&logo=telegram&logoColor=B23121)](https://t.me/ItsRisingTide)
-[![React Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&labelColor=E2E2E2&logo=gmail&logoColor=B23121)](mailto:ItsRisingTide@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&labelColor=E2E2E2&logo=telegram&logoColor=B23121)](https://t.me/ItsRisingTide)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D44638?style=flat-square&labelColor=E2E2E2&logo=gmail&logoColor=B23121)](mailto:ItsRisingTide@gmail.com)
+email: ItsRisingTide@gmail.ru
 
 ### Technologies
 
