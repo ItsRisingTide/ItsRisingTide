@@ -15,7 +15,7 @@
 <br />
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsRisingTide&repo=Food-API-app-with-react)](https://github.com/ItsRisingTide/Food-API-app-with-react)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsRisingTide&repo=Food-API-app-with-react)](https://github.com/ItsRisingTide/Food-API-app-with-react) -->
 
 ### Visitors
 
