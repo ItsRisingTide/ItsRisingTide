@@ -13,8 +13,8 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-<br />
-<br />
+<!--<br />
+<br />-->
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsRisingTide&repo=Food-API-app-with-react)](https://github.com/ItsRisingTide/Food-API-app-with-react) -->
 
