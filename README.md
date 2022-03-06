@@ -19,8 +19,6 @@
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsRisingTide&repo=Food-API-app-with-react)](https://github.com/ItsRisingTide/Food-API-app-with-react) -->
 
-Right now I'm focused on React & Redux
-
 You can see some projects with ReadMe.md below 
 ### Visitors
 
